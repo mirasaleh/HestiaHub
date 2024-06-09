@@ -1,7 +1,7 @@
 # HestiaHub: Nurturing Your Family's Well-being
  Mobile Application for Health Document Management
 
-## Screenshots:
+### Screenshots:
 <div style="display: flex; justify-content: space-around;">
   <img src="Screenshots/screenshot3.JPG" alt="Profiles" width="250"/>
   <img src="Screenshots/screenshot1.JPG" alt="Add Profile" width="250"/>
