@@ -2,7 +2,7 @@
  Mobile Application for Health Document Management
 
 ## Screenshots:
-![Add Profile](Screenshots/screenshot1.JPG)
+<img src="Screenshots/screenshot1.JPG" alt="Add Profile" width="300"/>
 ### Project Overview
 
 **Title:** HestiaHub
