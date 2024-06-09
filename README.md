@@ -3,6 +3,8 @@
 
 ## Screenshots:
 <img src="Screenshots/screenshot1.JPG" alt="Add Profile" width="300"/>
+<img src="Screenshots/screenshot2.JPG" alt="scheduling" width="300"/>
+<img src="Screenshots/screenshot3.JPG" alt="Profiles" width="300"/>
 ### Project Overview
 
 **Title:** HestiaHub
