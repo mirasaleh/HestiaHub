@@ -2,7 +2,7 @@
  Mobile Application for Health Document Management
 
 ## Screenshots:
-![Add Profile](https://github.com/mirasaleh/HestiaHub/Screenshots/screenshot1.JPG)
+![Add Profile](Screenshots/screenshot1.JPG)
 ### Project Overview
 
 **Title:** HestiaHub
